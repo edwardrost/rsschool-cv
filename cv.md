@@ -1,4 +1,4 @@
-#Curriculum vitae
+#CURRICULUM VITAE
 
 ##FULL NAME
 Eduard Rost
